@@ -1,0 +1,46 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: #FCFCF9;
+    font-size: 20px;
+}
+
+.fondo{
+    background-color: #A1EBDB;
+    padding: 1em;
+    margin:20px;
+    border-radius: 20px;
+}
+
+.titulo{
+    text-align:center;
+    background-color: #D3C9FF;
+    border-radius: 20px;
+    padding: .5em;
+    margin:20px;
+
+}
+
+.felicitacion{
+    text-align:justify;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top:60px;
+    background-color: #F5DEFA;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 6px 6px 12px;
+}
+
+img{
+    border-radius: 20px;
+    box-shadow: 6px 6px 12px;
+}
+
+.foto{
+    text-align: center;
+    margin:60px;
+
+}
